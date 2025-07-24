@@ -1,3 +1,4 @@
+#!/bin/bash
 defaults write -g NSScrollViewRubberbanding -int 0
 defaults write -g NSAutomaticWindowAnimationsEnabled -bool false
 defaults write -g NSScrollAnimationEnabled -bool false
